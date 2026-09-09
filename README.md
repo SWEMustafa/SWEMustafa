@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 <div align="center">
 
 
@@ -111,4 +111,4 @@ I'm always interested in meeting other engineers and discussing software enginee
 Portfolio · LinkedIn · Email
 
 </div>
--->
+
