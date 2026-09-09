@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OPEN%20TO-2027%20NEW--GRAD%20ROLES-2563EB?style=flat-square" alt="Open to 2027 new-grad software engineering and backend engineering roles">
+  <a href="https://www.linkedin.com/in/mustafaakilli"><img src="https://img.shields.io/badge/OPEN%20TO-2027%20NEW--GRAD%20ROLES-2563EB?style=flat-square" alt="Open to 2027 new-grad software engineering and backend engineering roles"></a>
 </p>
 
 ---
@@ -117,15 +117,6 @@ Developed a pharmaceutical document-intelligence system using OCR, NLP, LlamaInd
 <p align="center">
   <strong>AI, cloud, and developer tools</strong><br>
   <img src="https://skillicons.dev/icons?i=pytorch,opencv,docker,aws,git,github&perline=6" alt="PyTorch, OpenCV, Docker, AWS, Git, and GitHub">
-</p>
-
----
-
-## GitHub activity
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SWEMustafa&show_icons=true&hide_border=true&theme=tokyonight&title_color=60A5FA&text_color=CBD5E1&icon_color=38BDF8&bg_color=0F172A&rank_icon=github" alt="Mustafa Akilli's GitHub statistics">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SWEMustafa&layout=compact&hide_border=true&theme=tokyonight&title_color=60A5FA&text_color=CBD5E1&bg_color=0F172A&langs_count=8" alt="Mustafa Akilli's most used languages">
 </p>
 
 ---
