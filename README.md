@@ -20,7 +20,7 @@ I'm Mustafa, a CS senior at Delaware State University with a 3.87 GPA. I'm most 
 My work has ranged from improving a trading platform during my internship to using satellite imagery to map wildfire damage. I also enjoy building with a team at hackathons, where I've worked on projects that help people find event photos, report potholes, and catch 3D-printing failures.
 
 A few things I'm proud of:
-- Conducting NSF-funded research using NASA satellite imagery and deep learning to map wildfire impact across 28 U.S. wildfires.
+- Conducting NSF-funded research using NASA satellite imagery and deep learning to map wildfire impact across 200 U.S. wildfires.
 - Earning two first-place hackathon finishes with my teams, along with other competition placements.
 - Building software across internships, research, and personal projects, with experience in APIs, databases, cloud services, and machine learning.
 Projects
@@ -64,7 +64,7 @@ Software Engineer Intern · SignalDeck
 Worked on a fintech backtesting platform, improving backend features and automated workers using FastAPI, MySQL, and AWS.
 
 Research Intern · Delaware State University / NSF
-Built a PyTorch pipeline to compare satellite imagery from before and after wildfires and map the impact at the pixel level across 28 U.S. wildfires.
+Built a PyTorch pipeline to compare satellite imagery from before and after wildfires and map the impact at the pixel level across 200 U.S. wildfires.
 
 AI Engineer Extern · Extern / Pfizer
 Built a system for extracting and searching information in pharmaceutical documents using OCR, NLP, LlamaIndex, and retrieval-augmented generation (RAG).
